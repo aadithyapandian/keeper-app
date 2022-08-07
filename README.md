@@ -1,3 +1,3 @@
 # keeper-app
 
-A simple web app to add and delete notes.
+A simple web based react app to takes notes with option to save and delete.
